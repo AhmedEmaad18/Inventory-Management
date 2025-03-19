@@ -25,19 +25,59 @@
       "category": "Electronics"
     },
     {
-      "id": "cfb5927c-3e48-414d-b45c-436051fb4f8d",
-      "name": "Gehan",
-      "description": "sayed",
+      "id": "4",
+      "name": "Iphone",
+      "description": "iphone 15",
       "quantity": 55,
       "price": 100,
+      "category": "Electronics"
+    },
+    {
+      "id": "5",
+      "name": "Wireless Headphones",
+      "description": "Noise-cancelling wireless headphones with long battery life.",
+      "quantity": 15,
+      "price": 89.99,
+      "category": "Electronics"
+    },
+    {
+      "id": "6",
+      "name": "Cooking 101",
+      "description": "A beginner's guide to cooking with easy recipes.",
+      "quantity": 30,
+      "price": 14.99,
+      "category": "Books"
+    },
+    {
+      "id": "7",
+      "name": "Smartwatch",
+      "description": "A smartwatch with fitness tracking and notifications.",
+      "quantity": 25,
+      "price": 199.99,
+      "category": "Electronics"
+    },
+    {
+      "id": "8",
+      "name": "Men's T-Shirt",
+      "description": "Comfortable cotton t-shirt available in various sizes.",
+      "quantity": 40,
+      "price": 19.99,
       "category": "Clothing"
     },
     {
-      "id": "4a5ba31b-f164-4674-b6c0-d7c62ec926eb",
-      "name": "Emad Ahmed",
-      "description": "jjhjhj",
-      "quantity": 0,
-      "price": 0,
+      "id": "9",
+      "name": "Yoga Mat",
+      "description": "Non-slip yoga mat for all types of workouts.",
+      "quantity": 50,
+      "price": 29.99,
+      "category": "Sports"
+    },
+    {
+      "id": "10",
+      "name": "Wireless Mouse",
+      "description": "Ergonomic wireless mouse with customizable buttons.",
+      "quantity": 60,
+      "price": 24.99,
       "category": "Electronics"
     }
   ]
