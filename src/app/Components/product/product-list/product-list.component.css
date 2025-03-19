@@ -1,0 +1,51 @@
+.table {
+  max-width: 100%;
+}
+
+.table th, .table td {
+  font-size: 16px;
+}
+.btn-custom {
+  padding: 5px 10px;
+  font-size: 16px;
+  margin-top: 10px;
+}
+
+.btn-custom-sm {
+  padding: 5px 10px;
+  font-size: 12px;
+  width: 70px;
+  margin-right: 3px;
+}
+.custom-select-field {
+  width: 100%;
+  margin-bottom: 1rem; 
+}
+
+.mat-form-field {
+  background-color: #f9f9f9;
+  border-radius: 4px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+.mat-select {
+  font-size: 16px;
+}
+.mat-option {
+  padding: 10px;
+}
+@media (max-width: 576px) {
+  .table th, .table td {
+    font-size: 12px;
+  }
+.btn-custom-sm {
+  width: 50px;
+  height: auto;
+  margin: 0;
+  margin-top: 2px;
+}
+.btn-custom{
+  padding: 5px 5px;
+  margin-top:10px ;
+
+}
+}

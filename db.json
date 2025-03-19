@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Product A",
+      "description": "Description for Product A",
+      "quantity": 10,
+      "price": 29.99,
+      "category": "Electronics"
+    },
+    {
+      "id": "2",
+      "name": "Product B",
+      "description": "Description for Product B",
+      "quantity": 5,
+      "price": 19.99,
+      "category": "Books"
+    },
+    {
+      "id": "3",
+      "name": "Product C",
+      "description": "Description for Product C",
+      "quantity": 20,
+      "price": 39.99,
+      "category": "Electronics"
+    },
+    {
+      "id": "cfb5927c-3e48-414d-b45c-436051fb4f8d",
+      "name": "Gehan",
+      "description": "sayed",
+      "quantity": 55,
+      "price": 100,
+      "category": "Clothing"
+    },
+    {
+      "id": "4a5ba31b-f164-4674-b6c0-d7c62ec926eb",
+      "name": "Emad Ahmed",
+      "description": "jjhjhj",
+      "quantity": 0,
+      "price": 0,
+      "category": "Electronics"
+    }
+  ]
+}
